@@ -1,0 +1,1001 @@
+Id,Classification,Root Cause,Score,ViewCount,AnswerScore,AnswerCount,FavoriteCount,HoursToGetAnswer
+45153477,Configuration,Incorrect or suboptimal configuration values,4,4430,9,2,1,18.8
+49151722,Input and Output,Insufficient knowledge of API usage,1,1993,5,1,0,0.4
+28942376,Data processing,Insufficient knowledge of API usage,3,473,3,1,0,2.9
+36728627,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,47,1,1,0,11
+42886734,Data processing,Insufficient knowledge of API usage,1,724,4,1,0,0.4
+47597970,Performance,Data distributed computing,3,413,2,1,0,98.1
+41972210,Input and Output,Incorrect or incompatible data format,1,1898,0,1,0,5.2
+54012658,Streaming,Insufficient knowledge of API usage,1,101,3,1,0,0.2
+38118582,Configuration,Complex environmental configuration,1,1105,3,1,0,0.4
+57610268,Data processing,Incorrect or incompatible data format,2,30,1,1,0,2.6
+50363487,Data processing,Insufficient knowledge of API usage,2,236,1,1,0,0.5
+28803989,Input and Output,Integration errors with other data sources,1,1851,1,2,0,5
+48869922,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,2747,6,2,3,5.2
+50468056,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,1930,5,1,0,0.7
+34353995,Logging,Logging,1,858,1,2,0,122.5
+32079372,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,10582,5,6,2,0.2
+37228577,Data processing,Insufficient knowledge of API usage,1,233,2,1,0,0.7
+38957363,Data processing,Insufficient knowledge of API usage,1,579,4,1,0,0.2
+38304541,Data processing,Incorrect or incompatible data format,1,1025,3,2,0,0.2
+47543747,Data processing,Incorrect or incompatible data format,1,926,0,1,0,0.3
+23191363,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,8889,0,3,0,5.8
+36706512,Configuration,Complex environmental configuration,10,8881,21,3,8,493.1
+26832980,Configuration,Complex environmental configuration,6,1752,7,1,0,2.6
+40666954,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,316,1,4,0,18.3
+51328497,Configuration,Complex environmental configuration,1,414,1,1,0,17.6
+36350040,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,2,331,0,1,0,0.4
+38664972,Spark Basic,Lack of basic knowledge of Spark or programming language,53,47540,77,3,16,0.2
+35990846,Input and Output,Incorrect or incompatible data format,3,1569,6,2,1,1.4
+41177401,Configuration,Incorrect or suboptimal configuration values,1,279,3,1,0,101.4
+39224197,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,459,1,1,0,8.7
+39145246,Configuration,Complex environmental configuration,1,3640,1,2,0,47.6
+42776610,Data processing,Insufficient knowledge of API usage,4,2389,6,1,1,0.4
+56091155,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,64,1,1,0,3.2
+36056895,Spark Basic,Lack of basic knowledge of Spark or programming language,5,5933,6,1,2,2.3
+29997735,Spark Bug,Spark Bug,11,2687,10,1,1,100.1
+44135610,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,7,4920,3,3,1,23.9
+39502572,Data processing,Insufficient knowledge of API usage,1,3287,2,1,1,3.2
+43817493,Input and Output,Incorrect or incompatible data format,3,3024,3,2,3,5.2
+38726653,Input and Output,Incorrect or incompatible data format,3,1658,0,2,0,28.4
+31280355,Spark Bug,Spark Bug,3,1082,0,2,0,2.1
+45091429,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,3426,1,2,0,1.2
+44168379,Data processing,Insufficient knowledge of API usage,3,9151,7,1,1,11.1
+39302912,Streaming,Insufficient knowledge of API usage,5,2319,1,1,1,1412.1
+48362994,Input and Output,Integration errors with other data sources,2,538,1,1,0,8.6
+44187987,Configuration,Incorrect or suboptimal configuration values,3,2428,2,2,5,14.4
+56203473,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,156,4,3,1,6.3
+42219747,Configuration,Complex environmental configuration,3,495,1,1,0,89
+55570316,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,45,4,2,0,3.4
+49442206,Other,Other,1,998,2,1,1,0.8
+31212962,Data processing,Insufficient knowledge of API usage,3,5827,6,2,1,0.3
+43288924,Data processing,Insufficient knowledge of API usage,1,1123,3,1,0,5
+52588559,Configuration,Complex environmental configuration,2,794,0,1,0,267.8
+57626587,Configuration,Complex environmental configuration,3,43,4,1,1,1.8
+51440162,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,98,2,1,0,14
+34529393,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,301,3,1,0,0.9
+57386739,Input and Output,Complex environmental configuration,1,67,1,2,0,2.2
+37113997,MLlib,Insufficient knowledge of API usage,2,625,2,1,0,16.9
+37058016,Data processing,Diverse representation of timestamp data,13,17822,19,2,4,0.4
+28743313,MLlib,Insufficient knowledge of API usage,2,2012,2,2,2,4830
+47052969,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,130,3,1,0,2.2
+49294843,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,189,2,1,0,6.3
+33221713,Performance,Insufficient knowledge of API usage,14,11744,15,3,10,8.6
+32727964,Performance,Insufficient knowledge of API usage,1,254,1,1,0,70
+46152202,Configuration,Complex environmental configuration,3,758,2,1,1,74.4
+41785737,Data processing,Incorrect or incompatible data format,1,1747,2,1,0,0.5
+57408388,Spark Bug,Spark Bug,1,61,2,1,0,39.8
+35146665,Streaming,Insufficient knowledge of API usage,3,1816,5,1,0,3
+45835524,MLlib,Incorrect or incompatible data format,2,546,2,1,1,0.2
+37624090,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,135,1,3,1,11.2
+31278110,Data processing,Insufficient knowledge of API usage,5,5620,14,1,3,0.4
+30703678,Input and Output,Integration errors with other data sources,2,3193,4,3,2,0.1
+39962792,Data processing,Insufficient knowledge of API usage,5,10026,20,1,0,0.1
+44270341,Configuration,Complex environmental configuration,1,1522,1,1,1,169.2
+29750325,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,8,20531,11,1,4,8.4
+44178191,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,6,3934,11,2,4,1.8
+52035345,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,114,0,1,0,0.7
+38981425,MLlib,Insufficient knowledge of API usage,7,3873,23,1,3,142.2
+30416142,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,721,2,1,0,20.5
+51036010,Data processing,Incorrect or incompatible data format,2,7492,4,2,2,4.6
+38403062,Input and Output,Integration errors with other data sources,1,1040,1,1,0,1.2
+38761994,Input and Output,Insufficient knowledge of API usage,2,1154,2,1,0,0.9
+45092445,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,3,3625,6,1,0,0.2
+36545579,Input and Output,Insufficient knowledge of API usage,8,6124,9,2,6,0.2
+40181617,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,657,2,1,0,0.2
+56527559,Streaming,Integration errors with other data sources,3,53,3,1,1,0.3
+42837047,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1431,3,1,1,0.2
+38618460,Configuration,Complex environmental configuration,3,1902,6,1,0,0.4
+50330514,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,60,0,1,0,0.5
+55628005,Performance,Lack of knowledge on memory tuning,1,187,2,1,0,6.5
+55666759,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,155,6,3,2,0.5
+45607805,Performance,Lack of knowledge on memory tuning,3,344,1,1,1,1.7
+33293365,Data processing,Incorrect or incompatible data format,1,9145,1,2,0,15.3
+52906253,Data processing,Incorrect or incompatible data format,1,754,0,1,0,0.5
+49538717,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,2134,3,1,1,18.9
+43349932,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,134,2,1,0,12.8
+45105695,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,317,2,2,0,16454.3
+53468193,MLlib,Unfamiliar with the working principle of distributed algorithms,1,97,1,1,1,55.8
+50406950,Data processing,Incorrect or incompatible data format,1,1257,3,1,1,0.8
+24242060,Configuration,Incorrect or suboptimal configuration values,33,29169,16,5,11,1.2
+35836526,Streaming,Insufficient knowledge of API usage,1,355,0,2,0,210.8
+31305547,Streaming,Insufficient knowledge of API usage,2,2322,1,1,1,1.5
+48750303,Data processing,Insufficient knowledge of API usage,2,369,3,1,1,0.1
+49355077,Data processing,Diverse representation of timestamp data,3,459,5,3,2,262.6
+44057729,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,323,3,1,0,0.1
+41404041,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,6,2959,8,1,1,5.9
+40682101,Spark Basic,Lack of basic knowledge of Spark or programming language,5,671,4,2,3,23.5
+32148208,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,2890,8,1,2,22.1
+43614220,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,719,2,1,1,0.5
+57128082,Configuration,Complex environmental configuration,2,64,0,1,0,1.6
+49959309,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,342,2,1,0,0.4
+40938478,MLlib,Unfamiliar with the working principle of distributed algorithms,5,523,4,1,1,62.9
+31204805,Serialization,Serialization,1,970,1,1,0,0.6
+52150041,Configuration,Incorrect or suboptimal configuration values,1,70,1,1,0,16.2
+28048586,Data processing,Incorrect or incompatible data format,6,1697,1,2,1,1.8
+43506662,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,3737,1,2,0,6.8
+43569738,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1487,2,2,1,1.8
+39395182,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,799,0,1,1,1.1
+51597876,Serialization,Serialization,1,193,1,2,2,261.3
+57035262,Spark Basic,Lack of basic knowledge of Spark or programming language,2,42,1,1,1,4.1
+46296442,Spark Basic,Lack of basic knowledge of Spark or programming language,5,10224,2,2,1,0.1
+29504762,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,10315,5,2,2,0.3
+52164488,Input and Output,Integration errors with other data sources,1,914,1,1,1,5.7
+39901732,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,271,0,1,0,3.5
+45489248,Configuration,Complex environmental configuration,4,3710,2,3,5,435.9
+25643872,Configuration,Complex environmental configuration,9,9301,2,2,0,0.3
+47365396,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,4318,3,2,1,1
+56853255,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,64,0,1,0,0.7
+42815023,Configuration,Complex environmental configuration,1,1615,1,2,0,9949.4
+30162845,Configuration,Complex environmental configuration,6,8974,10,2,3,6302.1
+34287069,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,597,1,2,0,4
+30244880,Serialization,Serialization,3,1569,0,1,0,2.8
+38145515,Configuration,Complex environmental configuration,3,3774,1,2,1,204.3
+41944063,Configuration,Complex environmental configuration,1,715,0,1,1,380.5
+34670957,Spark Basic,Lack of basic knowledge of Spark or programming language,3,5217,7,4,1,0.2
+40892459,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,8,9941,9,2,4,6.7
+39777648,Data processing,Incorrect or incompatible data format,8,4073,15,4,5,162.2
+42506801,Streaming,Integration errors with other data sources,10,6403,19,1,5,6.4
+43518342,Configuration,Complex environmental configuration,1,503,1,2,1,1.1
+36949406,Spark Basic,Lack of basic knowledge of Spark or programming language,7,9095,9,2,2,13.6
+30709729,Serialization,Serialization,5,3500,6,3,2,0.2
+31680392,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,308,0,6,1,19.6
+44949246,Spark Basic,Lack of basic knowledge of Spark or programming language,5,1751,3,2,4,0.6
+39853227,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,3231,2,1,1,7.1
+34616842,Performance,Insufficient knowledge of API usage,2,905,1,2,0,119.8
+35480929,Configuration,Complex environmental configuration,1,704,0,2,0,187.8
+36597022,Streaming,Integration errors with other data sources,5,1376,2,2,4,0.4
+56493242,Serialization,Serialization,1,21,1,1,1,4
+48880934,Performance,Lack of knowledge on memory tuning,10,1646,0,2,3,864.1
+39950166,Data processing,Insufficient knowledge of API usage,1,4208,4,3,0,187.3
+33652013,Data processing,Insufficient knowledge of API usage,6,3988,6,2,0,0.6
+47635510,Configuration,Complex environmental configuration,23,4485,17,2,10,1584.5
+43455592,Input and Output,Incorrect or incompatible data format,2,1909,0,2,0,17.4
+27959831,Performance,Data distributed computing,2,1976,4,1,0,0.8
+32848632,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,3262,4,1,0,0.1
+54332942,Performance,Insufficient knowledge of API usage,1,1455,2,1,4,13.6
+43253936,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,294,4,2,0,92.7
+38635905,Input and Output,Integration errors with other data sources,7,12829,7,2,4,0.8
+55257202,Configuration,Complex environmental configuration,1,119,2,1,0,4.4
+24585705,Spark Basic,Lack of basic knowledge of Spark or programming language,16,13521,24,2,3,12558.4
+40080045,Input and Output,Incorrect or incompatible data format,2,1410,1,2,0,4.1
+34135607,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,2975,1,1,0,0.6
+48949387,Configuration,Complex environmental configuration,3,308,1,1,0,5.5
+44914144,Configuration,Complex environmental configuration,10,14450,33,4,2,6.7
+33883954,Performance,Data distributed computing,1,1049,1,1,0,17.7
+38232504,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,507,2,1,0,0.6
+55650861,Other,Other,1,77,0,1,0,55.8
+53541384,Input and Output,Incorrect or incompatible data format,2,523,2,1,0,2.1
+39944598,Data processing,Incorrect or incompatible data format,1,238,2,1,1,0.3
+49499263,Data processing,Incorrect or incompatible data format,7,4431,13,2,3,0.1
+45293591,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,435,1,2,0,4
+24651969,Input and Output,Insufficient knowledge of API usage,2,3372,3,1,1,5.9
+38210225,Configuration,Incorrect or suboptimal configuration values,3,756,2,1,0,7.3
+46295879,Input and Output,Incorrect or incompatible data format,3,2002,4,1,1,2.9
+41171671,Data processing,Incorrect or incompatible data format,2,865,4,1,0,0.2
+31254320,Configuration,Complex environmental configuration,1,1823,3,1,0,7.4
+35146482,Spark Basic,Lack of basic knowledge of Spark or programming language,4,840,9,2,5,0.5
+36508685,Serialization,Serialization,2,980,3,1,1,0.1
+35583702,MLlib,Insufficient knowledge of API usage,4,2941,4,2,1,0.8
+55767080,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,300,10,1,3,68.5
+36875190,Spark Basic,Lack of basic knowledge of Spark or programming language,3,4558,3,1,1,0.4
+47641076,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1155,4,2,1,0.2
+43759896,Logging,Logging,28,29579,37,1,12,1704.7
+47498798,Other,Other,1,28,2,1,0,0.1
+48998428,Configuration,Incorrect or suboptimal configuration values,1,73,1,1,0,80
+36307867,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,3677,7,1,2,0.1
+35835876,Input and Output,Integration errors with other data sources,1,570,1,1,1,1.2
+30248221,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,49,83588,58,7,18,12236.1
+48173726,Data processing,Insufficient knowledge of API usage,3,1211,6,1,0,0
+51015658,Serialization,Serialization,1,307,0,2,1,215
+49913420,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1695,0,1,1,0.1
+41952815,Configuration,Complex environmental configuration,2,3035,0,2,0,0.2
+38507373,Data processing,Insufficient knowledge of API usage,1,1139,3,1,0,100.3
+24065393,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,1106,2,1,0,2.3
+51016518,Data processing,Incorrect or incompatible data format,2,303,3,1,0,1
+30857337,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,998,0,2,0,3.1
+40405330,Input and Output,Insufficient knowledge of API usage,1,444,1,1,0,14204
+40579602,Other,Other,1,455,1,1,0,7.3
+42429402,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,350,2,1,0,1.7
+46304245,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,8654,1,4,0,0.1
+53776212,Configuration,Complex environmental configuration,1,269,2,1,1,5.9
+34562340,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,3395,2,5,0,20.6
+30381359,Data processing,Insufficient knowledge of API usage,8,23554,11,2,4,18
+35040642,Configuration,Complex environmental configuration,3,749,2,4,0,4207.8
+40432292,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,335,1,1,0,1.4
+53833048,Input and Output,Insufficient knowledge of API usage,2,318,1,2,1,8.4
+49133747,MLlib,Insufficient knowledge of API usage,1,813,1,2,1,30.1
+36586719,Data processing,Incorrect or incompatible data format,2,10077,2,1,2,0.2
+39004817,Input and Output,Integration errors with other data sources,1,908,0,1,0,138.3
+38866803,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,3668,5,1,1,0.3
+49602965,Data processing,Incorrect or incompatible data format,5,2050,4,1,2,4.4
+36264299,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1066,0,1,0,1.7
+28413423,Spark Basic,Lack of basic knowledge of Spark or programming language,19,39628,57,2,8,0.2
+33981487,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,22,41143,29,2,11,1.3
+44664626,Data processing,Insufficient knowledge of API usage,1,500,4,1,0,1
+46763569,Configuration,Complex environmental configuration,1,266,1,1,0,36.4
+36725130,MLlib,Insufficient knowledge of API usage,1,191,0,1,0,0.6
+35721413,Serialization,Serialization,3,1158,4,2,0,0.2
+40302222,MLlib,Insufficient knowledge of API usage,2,478,1,1,1,1.4
+35084175,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1352,2,1,0,0.3
+54843019,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,61,1,1,0,7
+49391927,Data processing,Insufficient knowledge of API usage,1,1721,2,4,0,0.2
+46111743,MLlib,Insufficient knowledge of API usage,2,45,1,1,0,0.4
+33621319,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,25,7920,18,1,17,1.5
+46457217,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,242,2,3,1,121.2
+32081882,Other,Other,3,553,2,1,0,189.7
+48860003,Data processing,Insufficient knowledge of API usage,2,655,0,3,0,2.7
+30435610,Configuration,Complex environmental configuration,18,12183,18,2,6,7.3
+41689643,Spark Bug,Spark Bug,6,1548,1,2,1,2325.2
+32517976,Spark Basic,Lack of basic knowledge of Spark or programming language,6,4359,9,1,5,2.1
+38406825,Configuration,Incorrect or suboptimal configuration values,3,3954,3,1,1,2.4
+48551900,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,132,4,1,0,1.5
+42980091,MLlib,Insufficient knowledge of API usage,2,462,0,1,0,0.4
+37816072,Configuration,Complex environmental configuration,4,123,0,1,0,18.8
+44196299,Configuration,Complex environmental configuration,1,762,0,1,0,126.2
+29173117,Input and Output,Insufficient knowledge of API usage,3,635,2,1,3,2821.2
+34726740,Data processing,Diverse representation of timestamp data,1,484,2,1,0,0.1
+55820869,Data processing,Incorrect or incompatible data format,1,65,4,2,0,0.2
+32745119,Data processing,Incorrect or incompatible data format,13,7981,19,3,7,0.8
+42655448,Input and Output,Integration errors with other data sources,4,577,2,1,1,15.5
+48704893,Input and Output,Complex environmental configuration,2,771,0,2,0,81.3
+51868448,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,796,1,1,0,0.8
+50100407,Data processing,Insufficient knowledge of API usage,1,103,3,1,0,0
+35711652,MLlib,Incorrect or incompatible data format,3,169,1,1,0,25514.4
+43665995,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,4496,0,1,0,92.8
+48466019,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,2,586,0,1,0,97.3
+41185599,Other,Other,2,716,3,1,1,5.8
+45000671,Streaming,Insufficient knowledge of API usage,1,208,1,1,0,1.4
+45619376,Input and Output,Integration errors with other data sources,2,146,0,1,0,32.6
+57200859,Performance,Data distributed computing,1,39,1,1,1,70.6
+33197858,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1166,1,1,0,0
+26557873,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,22,23156,28,4,9,17.6
+40113400,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,228,0,1,0,13.6
+35189312,MLlib,Unfamiliar with the working principle of distributed algorithms,2,1638,5,2,1,1.8
+36942233,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,33,16152,57,1,26,2.5
+32274540,Input and Output,Insufficient knowledge of API usage,4,3858,6,1,4,40.2
+49113732,Serialization,Serialization,1,729,2,1,0,3.2
+28807490,Configuration,Complex environmental configuration,49,32668,92,3,26,0.7
+48719433,Configuration,Complex environmental configuration,2,306,2,1,0,1.1
+36572280,Spark Basic,Lack of basic knowledge of Spark or programming language,2,204,4,1,0,0.1
+29143756,Other,Other,19,10722,54,1,5,2
+29831234,Configuration,Complex environmental configuration,5,1850,2,1,0,7.1
+52302759,Input and Output,Complex environmental configuration,1,37,1,2,0,0.8
+48648798,Streaming,Insufficient knowledge of API usage,1,346,0,1,0,0
+44387136,Configuration,Complex environmental configuration,1,615,2,2,0,1844.5
+32054546,Configuration,Complex environmental configuration,5,1799,2,1,0,15.6
+35885702,Spark Basic,Lack of basic knowledge of Spark or programming language,5,5148,3,1,1,0.2
+42862505,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1259,2,2,2,3
+40728667,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,9,1542,11,1,1,0.7
+45149578,Other,Other,1,4124,3,1,1,0.3
+41908418,MLlib,Insufficient knowledge of API usage,1,2023,4,1,1,3.7
+57949126,Input and Output,Incorrect or incompatible data format,1,56,0,1,0,8
+39727742,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,45,108706,58,9,23,0.7
+56456446,Other,Other,4,51,3,3,1,0.1
+44395974,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,556,2,1,0,4
+31396228,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,13,19895,25,1,4,22.6
+33898040,Input and Output,Integration errors with other data sources,20,33676,33,2,4,0
+39065413,Data processing,Diverse representation of timestamp data,1,252,2,1,0,0.2
+51499460,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,2290,4,1,2,0.5
+40468776,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,5870,9,2,1,0.1
+28127119,Spark Basic,Lack of basic knowledge of Spark or programming language,13,11817,20,1,5,2.2
+32641170,Spark Basic,Lack of basic knowledge of Spark or programming language,1,29,1,1,0,0.4
+48909921,Spark Bug,Spark Bug,2,982,3,1,0,3.5
+44957197,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,8659,12,1,3,0.3
+31397845,Input and Output,Integration errors with other data sources,3,3127,4,1,3,3.3
+43668339,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,128,0,1,1,10.4
+42764388,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,303,1,1,2,3.4
+44137787,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1185,0,2,1,0.4
+44835026,Configuration,Complex environmental configuration,2,1887,6,2,1,2.8
+36578936,MLlib,Incorrect or incompatible data format,2,2278,13,1,0,1.5
+42588077,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,2617,7,1,2,0.3
+39191194,Input and Output,Insufficient knowledge of API usage,4,7033,6,2,1,0
+57739643,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,73,0,1,1,15.7
+29995938,Spark Basic,Lack of basic knowledge of Spark or programming language,6,4935,20,2,3,22.9
+58169776,Data processing,Diverse representation of timestamp data,1,24,1,1,0,0.4
+39414368,Spark Basic,Lack of basic knowledge of Spark or programming language,1,52,2,1,0,0.5
+38203303,Serialization,Serialization,1,164,2,2,0,25.3
+42863804,Input and Output,Incorrect or incompatible data format,2,583,2,1,0,0.4
+52286867,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,1,216,1,2,0,4.8
+41021362,Performance,Lack of knowledge on memory tuning,4,303,0,1,0,3.5
+51732843,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,582,5,1,0,4
+39642371,Spark Basic,Lack of basic knowledge of Spark or programming language,1,94,1,1,0,2.9
+39239214,Spark Basic,Lack of basic knowledge of Spark or programming language,1,1165,1,2,0,4.6
+45668076,Input and Output,Incorrect or incompatible data format,1,537,2,1,0,0.1
+44021624,Configuration,Incorrect or suboptimal configuration values,2,1850,2,1,0,1.5
+56833774,Data processing,Insufficient knowledge of API usage,2,56,0,1,0,28.4
+48160627,Performance,Insufficient knowledge of API usage,4,9595,11,2,6,11.2
+39123314,Other,Other,16,4283,29,2,5,0.5
+36092574,Data processing,Insufficient knowledge of API usage,1,470,1,1,0,15.8
+48153759,Spark Basic,Lack of basic knowledge of Spark or programming language,1,388,4,1,0,0.2
+40563777,Input and Output,Insufficient knowledge of API usage,2,1450,3,2,0,0.2
+33438736,Input and Output,Insufficient knowledge of API usage,2,1139,2,1,2,3.6
+35523065,MLlib,Insufficient knowledge of API usage,5,1714,4,1,3,0.6
+37569298,Other,Other,1,75,3,1,0,2.8
+41688756,Configuration,Complex environmental configuration,2,939,1,1,0,0.8
+45777798,Input and Output,Insufficient knowledge of API usage,1,1443,1,1,0,9.9
+31795777,Performance,Insufficient knowledge of API usage,5,851,1,2,2,0.5
+56557771,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,157,5,2,1,0.6
+38101857,Configuration,Incorrect or suboptimal configuration values,10,14818,9,2,6,7.6
+54743574,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,297,0,1,0,0.6
+33744868,Data processing,Insufficient knowledge of API usage,1,3783,4,1,2,0.2
+48997513,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,50,0,1,0,7.5
+28482476,MLlib,Insufficient knowledge of API usage,1,463,2,1,1,1.7
+48110448,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,849,4,2,2,3.2
+31467998,Other,Other,5,7277,5,2,3,0.2
+57277371,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,40,1,1,0,5.3
+55462006,Data processing,Diverse representation of timestamp data,1,256,1,1,0,0.6
+48326387,Other,Other,1,1215,1,1,0,4.7
+24652518,MLlib,Incorrect or incompatible data format,3,3865,1,1,0,135.6
+39677883,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,469,4,1,0,0.3
+57079343,Data processing,Insufficient knowledge of API usage,1,42,2,1,0,0.1
+52041342,Data processing,Insufficient knowledge of API usage,2,1557,3,3,0,2.6
+32656734,Configuration,Incorrect or suboptimal configuration values,7,3071,1,5,0,63.4
+35823213,Input and Output,Incorrect or incompatible data format,3,2057,3,1,1,131.8
+36244268,Configuration,Complex environmental configuration,1,411,2,2,0,0.2
+47241882,Serialization,Serialization,2,1002,3,1,1,1.4
+39633874,Spark Basic,Lack of basic knowledge of Spark or programming language,3,1204,2,2,2,10825.9
+40575972,Input and Output,Integration errors with other data sources,3,2680,0,1,2,42.6
+56657794,Data processing,Insufficient knowledge of API usage,1,65,3,1,1,2.7
+39961263,Streaming,Integration errors with other data sources,1,1839,1,2,0,406.2
+55823841,Streaming,Insufficient knowledge of API usage,1,78,2,1,0,0.2
+47618206,Input and Output,Insufficient knowledge of API usage,1,210,1,1,0,0.2
+44494656,Performance,Data distributed computing,5,1872,6,1,5,4029.1
+40159372,Configuration,Complex environmental configuration,2,2091,1,1,0,2.7
+34867585,Data processing,Insufficient knowledge of API usage,2,6980,5,2,0,0.8
+50348236,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1634,1,1,0,0.2
+43835283,MLlib,Incorrect or incompatible data format,1,747,0,2,0,7
+41652374,Input and Output,Integration errors with other data sources,3,897,3,1,0,3.7
+52238803,Data processing,Incorrect or incompatible data format,5,6147,2,2,2,14.3
+57408398,Performance,Data distributed computing,1,70,0,1,0,25.6
+45282559,Configuration,Incorrect or suboptimal configuration values,2,877,2,3,0,887.6
+53011256,Other,Other,4,8097,2,2,0,94.9
+40611178,Configuration,Complex environmental configuration,1,408,3,2,0,0.2
+32150922,Logging,Logging,1,2603,1,1,0,67.6
+31178740,Data processing,Insufficient knowledge of API usage,2,21510,4,4,1,0.4
+51438504,Streaming,Insufficient knowledge of API usage,5,311,1,1,0,142.7
+42391368,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,2132,1,2,0,406.2
+51951989,Input and Output,Integration errors with other data sources,4,1581,1,1,0,17.1
+51898859,Performance,Insufficient knowledge of API usage,1,2081,2,1,0,0.4
+51963668,Spark Bug,Spark Bug,1,196,0,1,0,4961.3
+41686477,Other,Other,1,2022,2,1,0,10
+49433834,Input and Output,Incorrect or incompatible data format,1,307,1,2,0,2.5
+56270629,Performance,Insufficient knowledge of API usage,3,155,1,2,1,1470.2
+45312982,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,5179,6,2,1,6.5
+46181746,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,913,1,1,0,1.2
+52780898,Input and Output,Insufficient knowledge of API usage,1,914,0,2,0,0.8
+33956720,MLlib,Insufficient knowledge of API usage,2,1415,2,1,0,25.6
+36347875,MLlib,Incorrect or incompatible data format,6,1621,8,2,2,0.8
+40193801,Configuration,Incorrect or suboptimal configuration values,1,547,1,1,0,55.4
+36662297,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,2924,2,1,0,0.9
+40863808,Other,Other,1,46,0,1,0,4.2
+41618474,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,6869,3,2,1,0.1
+25682836,Configuration,Complex environmental configuration,12,8410,10,3,6,70.5
+54197788,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,495,3,4,3,0.2
+32822948,Performance,Lack of knowledge on memory tuning,9,14565,5,3,3,1107.9
+43271837,Data processing,Insufficient knowledge of API usage,4,2753,4,1,2,1.5
+31070702,Configuration,Complex environmental configuration,1,2088,2,1,0,8.3
+46351215,Data processing,Insufficient knowledge of API usage,1,84,1,1,1,0.4
+31454792,Input and Output,Complex environmental configuration,1,2007,7,1,1,18
+48009318,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,3306,1,3,0,0.2
+48817169,Performance,Data distributed computing,1,397,1,1,1,0.2
+31279206,Other,Other,2,2387,4,1,0,9
+21171576,Spark Bug,Spark Bug,4,3115,4,2,1,6.6
+36176620,Configuration,Complex environmental configuration,2,2507,1,2,1,72.2
+45550672,Data processing,Diverse representation of timestamp data,3,508,3,2,1,0.9
+55778246,Data processing,Diverse representation of timestamp data,1,84,1,1,0,0.1
+26947344,Input and Output,Incorrect or incompatible data format,8,15868,9,3,2,6.5
+33471388,Configuration,Complex environmental configuration,2,552,0,2,0,39.9
+35476440,Spark Basic,Lack of basic knowledge of Spark or programming language,2,497,1,1,0,3.4
+40653248,Configuration,Incorrect or suboptimal configuration values,2,3695,3,2,1,121.2
+42329551,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,597,2,1,0,0.7
+51090044,Data processing,Insufficient knowledge of API usage,1,299,1,1,0,13.7
+49714067,Data processing,Insufficient knowledge of API usage,6,1923,12,1,2,1.9
+48900127,Spark Bug,Spark Bug,4,1594,4,2,0,1.4
+45480208,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,6,4690,7,4,1,2.5
+30047760,Configuration,Incorrect or suboptimal configuration values,9,9594,6,2,2,0.7
+48828067,Data processing,Incorrect or incompatible data format,5,2058,6,1,1,0.2
+49977114,Input and Output,Integration errors with other data sources,8,4106,10,2,4,34.4
+46228331,Data processing,Insufficient knowledge of API usage,4,1242,4,2,0,0.2
+48038221,Input and Output,Insufficient knowledge of API usage,3,5425,1,1,0,18.2
+22734849,Configuration,Incorrect or suboptimal configuration values,3,6628,6,2,7,17.3
+44348241,Data processing,Incorrect or incompatible data format,1,921,0,1,0,0.1
+46521235,Input and Output,Insufficient knowledge of API usage,2,1469,1,1,0,1.8
+41919295,Configuration,Incorrect or suboptimal configuration values,1,702,1,1,1,10.4
+24050300,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,2039,4,1,0,7.6
+55974244,Input and Output,Incorrect or incompatible data format,2,142,2,2,1,2
+57045469,Configuration,Complex environmental configuration,2,132,3,3,0,163.4
+31210377,Other,Other,3,184,1,3,0,413.1
+36349585,Data processing,Incorrect or incompatible data format,2,7724,3,1,1,2.6
+37032689,Input and Output,Integration errors with other data sources,2,5708,1,1,3,0
+33728994,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,901,3,2,0,3.3
+35937398,Spark Basic,Lack of basic knowledge of Spark or programming language,4,2027,4,2,0,0.2
+35968321,Spark Basic,Lack of basic knowledge of Spark or programming language,1,2386,6,1,0,0.2
+46382167,Data processing,Insufficient knowledge of API usage,1,1046,5,2,0,0.2
+49265613,Configuration,Incorrect or suboptimal configuration values,2,2625,2,1,1,1.2
+57107792,Other,Other,2,108,2,2,2,6.2
+34885981,Data processing,Insufficient knowledge of API usage,1,944,6,1,2,10
+38926715,Performance,Insufficient knowledge of API usage,2,436,3,1,0,0.2
+37754704,Data processing,Insufficient knowledge of API usage,4,7787,7,1,2,0.2
+46552161,Input and Output,Integration errors with other data sources,10,8307,10,1,3,7.3
+54583338,Data processing,Diverse representation of timestamp data,1,155,0,1,0,8.9
+37171911,MLlib,Incorrect or incompatible data format,1,746,1,3,1,118.9
+41328352,Other,Other,1,2312,3,1,0,0.2
+38606651,Configuration,Incorrect or suboptimal configuration values,1,133,1,1,0,1.1
+43004716,Data processing,Insufficient knowledge of API usage,2,2629,1,2,0,0.2
+43710287,Input and Output,Insufficient knowledge of API usage,1,1683,4,1,0,4.1
+54419102,Configuration,Complex environmental configuration,1,51,2,1,0,3.8
+42279665,Other,Other,3,2042,3,1,0,74.1
+29563115,Configuration,Incorrect or suboptimal configuration values,2,121,1,1,0,0.5
+29910708,MLlib,Incorrect or incompatible data format,8,8687,10,3,1,5050.9
+36020699,Data processing,Incorrect or incompatible data format,1,331,2,2,0,14.1
+46529404,Data processing,Diverse representation of timestamp data,5,3879,6,2,3,0.8
+48707871,Data processing,Incorrect or incompatible data format,1,53,1,1,0,1
+34535833,Data processing,Diverse representation of timestamp data,3,170,3,1,0,1.7
+51427175,Configuration,Complex environmental configuration,6,2887,5,3,2,57.6
+49098202,Input and Output,Integration errors with other data sources,1,31,0,1,0,5.4
+26899595,Input and Output,Incorrect or incompatible data format,3,4219,8,3,0,86.1
+49683897,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,14,5074,18,1,1,2
+39961850,Streaming,Insufficient knowledge of API usage,3,4544,2,2,2,1.6
+42534788,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,503,2,1,0,0.2
+30114854,Input and Output,Integration errors with other data sources,5,2429,7,1,3,11.9
+56381913,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,42,0,1,1,1.5
+50923336,Input and Output,Incorrect or incompatible data format,1,110,1,1,0,0.4
+33369972,Input and Output,Complex environmental configuration,2,952,5,1,0,0.2
+34067124,Spark Bug,Spark Bug,1,1663,1,1,0,49.1
+42082900,Configuration,Complex environmental configuration,2,2601,7,2,1,1.4
+42886401,Performance,Data distributed computing,2,388,0,2,1,4.8
+38490714,Spark Basic,Lack of basic knowledge of Spark or programming language,1,49,0,1,0,0.6
+35938787,Input and Output,Insufficient knowledge of API usage,1,585,1,1,1,1.1
+47111607,Data processing,Insufficient knowledge of API usage,9,4760,10,2,1,309.2
+32495891,Serialization,Serialization,2,1809,6,2,1,3.4
+47149293,Input and Output,Insufficient knowledge of API usage,1,314,1,1,1,11086.3
+36873600,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,2261,2,1,0,1
+46396506,Configuration,Incorrect or suboptimal configuration values,1,299,0,1,0,6.6
+42964531,Serialization,Serialization,1,155,0,1,0,0.1
+48394765,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,198,2,2,1,0.2
+36237508,Performance,Lack of knowledge on memory tuning,2,555,2,1,1,0.7
+35857224,Input and Output,Insufficient knowledge of API usage,1,55,2,1,0,10.4
+45080620,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,241,1,1,0,0.5
+49116437,Performance,Insufficient knowledge of API usage,1,810,0,1,0,9.7
+49034126,Configuration,Incorrect or suboptimal configuration values,9,6172,2,5,4,3508.5
+42030653,Performance,Data distributed computing,3,1043,4,2,1,44.2
+44970829,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,11870,10,1,0,0.2
+52792762,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1609,2,1,1,51
+34922320,Input and Output,Integration errors with other data sources,2,4786,8,1,2,0.2
+49303113,Configuration,Complex environmental configuration,3,1094,0,1,0,1956.9
+34937394,Streaming,Insufficient knowledge of API usage,1,202,2,1,0,85.9
+39544796,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,9,25130,5,4,2,6.4
+42829629,Other,Other,1,335,1,1,0,24.2
+47387439,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,220,2,1,0,0.8
+54748545,Input and Output,Incorrect or incompatible data format,1,73,1,1,0,0.2
+39275779,Streaming,Integration errors with other data sources,11,3921,11,2,1,2.2
+51792377,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1038,2,1,0,0.1
+41288622,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,10,8691,17,1,7,3.1
+39988908,Configuration,Complex environmental configuration,7,3068,13,1,1,2
+49483987,Other,Other,3,2040,1,1,2,3.1
+35998935,MLlib,Incorrect or incompatible data format,2,1018,3,1,0,1.4
+55245568,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,105,1,2,0,1
+46659616,Spark Basic,Lack of basic knowledge of Spark or programming language,11,9048,24,2,2,0.5
+34676374,Input and Output,Integration errors with other data sources,1,3166,2,2,1,1989.1
+49671354,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,5341,3,2,2,1.1
+33162705,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1248,0,1,0,0.6
+55946124,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,70,3,2,0,0.7
+43342772,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,2,707,1,1,0,0.4
+44086892,Spark Basic,Lack of basic knowledge of Spark or programming language,1,363,5,1,0,1
+42295001,Other,Other,7,3470,18,1,2,1.7
+42578804,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,2350,3,2,0,1.5
+56514856,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,31,0,1,0,7.7
+33180856,Data processing,Incorrect or incompatible data format,5,374,1,1,1,29684.3
+42249888,Input and Output,Integration errors with other data sources,2,503,1,2,1,1737.8
+26892389,Configuration,Complex environmental configuration,12,56612,3,2,3,4.6
+40613228,Data processing,Incorrect or incompatible data format,6,528,4,1,0,0.2
+55226928,Other,Other,1,327,0,1,0,39.2
+51171328,Data processing,Diverse representation of timestamp data,3,83,3,1,1,3.6
+47784718,MLlib,Unfamiliar with the working principle of distributed algorithms,1,276,1,1,0,3
+32598820,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,6,2307,9,1,3,4.4
+36009436,Spark Basic,Lack of basic knowledge of Spark or programming language,1,609,1,1,1,0.4
+37603989,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,246,0,1,0,0.5
+50880303,Spark Basic,Lack of basic knowledge of Spark or programming language,5,902,2,2,2,982
+38186427,Data processing,Incorrect or incompatible data format,1,83,1,1,0,0.6
+45636753,Spark Basic,Lack of basic knowledge of Spark or programming language,2,1002,11,1,2,0.1
+48469281,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,1,472,2,1,1,15
+30591421,Spark Basic,Lack of basic knowledge of Spark or programming language,1,43,3,2,0,0.2
+37778532,MLlib,Insufficient knowledge of API usage,2,734,2,1,2,21
+39537505,Data processing,Incorrect or incompatible data format,2,659,1,1,0,21.4
+48926087,Data processing,Incorrect or incompatible data format,2,244,2,1,0,0.8
+29785548,Configuration,Incorrect or suboptimal configuration values,1,87,0,2,0,4235.7
+35899392,MLlib,Incorrect or incompatible data format,3,1487,1,1,0,19.7
+47687194,Input and Output,Incorrect or incompatible data format,2,2008,4,2,0,52.1
+53976064,Data processing,Insufficient knowledge of API usage,2,1894,0,1,2,0.4
+48176849,MLlib,Insufficient knowledge of API usage,3,1170,6,1,1,12.1
+46896971,Data processing,Insufficient knowledge of API usage,4,4614,6,1,0,116.2
+31184828,Configuration,Incorrect or suboptimal configuration values,2,2704,0,3,0,3.1
+37270176,Data processing,Insufficient knowledge of API usage,1,661,1,1,1,4.8
+30985789,Configuration,Complex environmental configuration,11,1113,3,1,1,9592.3
+30369380,Configuration,Complex environmental configuration,15,27827,35,1,8,24.2
+49472422,Data processing,Insufficient knowledge of API usage,1,52,1,1,0,0.1
+57358701,Input and Output,Insufficient knowledge of API usage,1,69,0,1,1,2.8
+45109247,Data processing,Incorrect or incompatible data format,1,2404,5,1,2,2.2
+37112986,Input and Output,Insufficient knowledge of API usage,10,10880,7,2,6,13.3
+34649761,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,603,6,1,0,0.2
+40073299,Input and Output,Incorrect or incompatible data format,4,701,6,1,0,0.7
+46103365,Performance,Data distributed computing,17,2998,12,1,1,96.6
+37741841,Data processing,Insufficient knowledge of API usage,24,33453,41,2,4,1.2
+46365822,Data processing,Diverse representation of timestamp data,2,3410,6,1,0,0.4
+27412780,Spark Basic,Lack of basic knowledge of Spark or programming language,2,491,0,1,0,30.9
+37706420,Spark Basic,Lack of basic knowledge of Spark or programming language,18,16880,18,3,7,109.5
+41029502,Spark Basic,Lack of basic knowledge of Spark or programming language,11,5884,14,1,2,9.9
+38747713,Configuration,Complex environmental configuration,4,3195,1,1,0,20750.2
+38244766,Data processing,Insufficient knowledge of API usage,1,1090,2,1,0,2
+29013595,Data processing,Insufficient knowledge of API usage,3,636,2,1,0,29.7
+47746477,Data processing,Insufficient knowledge of API usage,1,1059,2,2,0,0.2
+33222045,Configuration,Complex environmental configuration,7,3829,18,2,2,24.8
+34534088,Data processing,Insufficient knowledge of API usage,2,9908,3,3,1,123
+57407077,Data processing,Insufficient knowledge of API usage,1,37,1,1,1,0.4
+43104140,Configuration,Incorrect or suboptimal configuration values,1,127,0,1,0,16.8
+52042632,Input and Output,Incorrect or incompatible data format,2,180,2,1,1,0.4
+54662701,MLlib,Incorrect or incompatible data format,1,197,1,1,0,0.3
+49754318,Other,Other,1,323,2,1,0,0.2
+53162827,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,58,3,1,0,0.5
+49825081,Configuration,Complex environmental configuration,2,876,3,1,1,63.2
+39739072,Data processing,Insufficient knowledge of API usage,28,13120,54,3,15,0.2
+52227439,Data processing,Insufficient knowledge of API usage,2,1158,2,3,0,1.8
+37689878,Data processing,Insufficient knowledge of API usage,8,6584,0,3,1,1
+30264373,Data processing,Insufficient knowledge of API usage,35,68161,59,7,12,2.4
+41080083,Data processing,Diverse representation of timestamp data,1,407,2,1,0,1.4
+45707479,Spark Bug,Spark Bug,2,328,0,1,0,12.3
+48509099,Spark Basic,Lack of basic knowledge of Spark or programming language,1,412,1,1,0,0.1
+39190829,Configuration,Incorrect or suboptimal configuration values,2,1740,3,1,0,0.8
+52049152,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,114,1,1,1,19.8
+35074278,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1412,1,1,2,10.5
+36122559,MLlib,Incorrect or incompatible data format,7,2237,11,1,8,223.8
+51206730,Data processing,Insufficient knowledge of API usage,2,574,2,2,0,2.4
+38117360,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,1635,1,1,0,0.3
+50232040,Configuration,Complex environmental configuration,2,932,6,2,1,0.9
+28804647,Data processing,Insufficient knowledge of API usage,12,12027,37,2,7,0.2
+43265852,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,478,7,1,1,6.4
+55398372,Data processing,Incorrect or incompatible data format,2,726,0,1,0,25
+30091371,Serialization,Serialization,4,3156,7,1,2,4.4
+40050801,Performance,Lack of knowledge on memory tuning,2,74,0,1,0,2.3
+31543836,Input and Output,Incorrect or incompatible data format,1,3007,3,1,3,0.1
+48625902,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,562,1,2,0,10.9
+28833926,Data processing,Insufficient knowledge of API usage,2,4629,1,1,0,4
+41134924,Input and Output,Integration errors with other data sources,1,379,0,1,0,14.5
+37998228,Configuration,Incorrect or suboptimal configuration values,1,1128,2,1,0,0.2
+28723643,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,519,0,1,0,0.7
+55148432,Other,Other,9,130,4,1,1,626.2
+37732766,Input and Output,Complex environmental configuration,2,2127,3,2,0,0.2
+57310508,Data processing,Incorrect or incompatible data format,1,62,1,1,0,19.2
+48666655,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,500,2,1,0,0.1
+43428297,MLlib,Insufficient knowledge of API usage,1,1246,6,1,0,1.3
+29180248,Data processing,Insufficient knowledge of API usage,3,7529,9,1,0,3
+36672606,Data processing,Insufficient knowledge of API usage,6,563,10,1,0,0.7
+54503014,Data processing,Insufficient knowledge of API usage,8,4645,6,2,3,0.3
+45531581,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,499,2,1,0,1.2
+38467763,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,14897,12,2,2,1.3
+36140725,Input and Output,Insufficient knowledge of API usage,1,6300,3,1,1,0.4
+41135506,Configuration,Complex environmental configuration,11,13026,16,4,2,469.2
+55965978,Data processing,Diverse representation of timestamp data,2,618,1,4,2,2032.4
+42051444,Data processing,Diverse representation of timestamp data,1,332,1,1,0,0.7
+36646866,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,1,623,2,1,0,1.9
+45429535,Streaming,Insufficient knowledge of API usage,1,404,2,1,1,1.5
+45229581,Input and Output,Incorrect or incompatible data format,2,536,2,1,1,0.4
+33168970,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,4861,15,1,9,31.4
+28454080,Logging,Logging,31,57431,24,5,20,2.5
+44658970,Configuration,Complex environmental configuration,1,393,4,1,1,15.7
+32126007,Spark Bug,Spark Bug,3,2352,1,3,0,2188.5
+37058529,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,455,6,1,1,0.4
+40526054,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,6162,16,1,0,1.4
+46302241,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1404,3,1,1,0.1
+33393815,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,11837,10,2,1,0.6
+38964007,Spark Bug,Spark Bug,21,2236,6,2,6,494.9
+42432345,Input and Output,Integration errors with other data sources,1,680,1,1,0,248.1
+45331177,Configuration,Incorrect or suboptimal configuration values,1,576,1,1,1,5.9
+40498188,MLlib,Incorrect or incompatible data format,1,215,1,1,1,0.8
+33871569,Data processing,Insufficient knowledge of API usage,1,980,1,1,2,0.2
+49108386,Spark Basic,Lack of basic knowledge of Spark or programming language,2,4503,2,2,0,220.4
+48991745,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,1,2339,3,1,1,0.1
+33996879,Spark Basic,Lack of basic knowledge of Spark or programming language,7,7439,6,2,3,8.3
+40193649,Spark Basic,Lack of basic knowledge of Spark or programming language,6,2916,4,1,4,17.2
+57379115,Spark Basic,Lack of basic knowledge of Spark or programming language,1,44,1,1,1,22.2
+51994323,Input and Output,Integration errors with other data sources,1,834,3,1,0,7.4
+43263639,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,3033,3,1,1,0.3
+39136544,Data processing,Insufficient knowledge of API usage,2,1297,2,1,0,10.9
+36366436,Performance,Insufficient knowledge of API usage,3,2470,3,3,0,21
+45618489,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,11,2815,21,1,4,92.5
+35066231,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,2080,11,1,3,0.6
+41438055,Performance,Insufficient knowledge of API usage,2,3197,3,1,1,4.2
+48086889,Spark Basic,Lack of basic knowledge of Spark or programming language,1,2357,1,2,2,13
+24837561,Data processing,Incorrect or incompatible data format,6,2356,4,1,0,6
+28412969,Spark Basic,Lack of basic knowledge of Spark or programming language,2,1839,1,1,0,27.1
+47171659,Data processing,Incorrect or incompatible data format,1,718,2,3,0,0.7
+38557061,Data processing,Insufficient knowledge of API usage,1,180,3,1,0,0.7
+50260067,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,722,1,2,0,0.6
+46541998,MLlib,Incorrect or incompatible data format,2,1356,3,2,0,2.4
+29137562,Streaming,Insufficient knowledge of API usage,1,709,2,1,0,18.4
+57960672,Data processing,Diverse representation of timestamp data,1,25,0,1,0,6.3
+41206255,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,21278,12,4,4,0.7
+48365558,Configuration,Complex environmental configuration,1,1105,0,1,0,1.7
+25904809,Configuration,Complex environmental configuration,4,6128,9,2,4,793.2
+32341709,Configuration,Complex environmental configuration,12,7156,20,6,4,1368.3
+30391075,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,3660,1,2,0,3.4
+37034454,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,2748,2,2,0,6818.3
+49377717,Input and Output,Integration errors with other data sources,3,1448,3,2,0,188.7
+36437856,Input and Output,Integration errors with other data sources,3,85,3,1,0,0.2
+45355192,MLlib,Insufficient knowledge of API usage,1,45,1,2,0,0.3
+54002766,Input and Output,Integration errors with other data sources,1,356,3,1,1,1.4
+35546576,Data processing,Insufficient knowledge of API usage,16,21985,38,2,11,5.4
+52545438,Data processing,Incorrect or incompatible data format,1,1254,2,1,0,17
+36816293,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,6926,2,1,0,0.2
+58125949,Configuration,Complex environmental configuration,1,21,0,1,0,14.6
+29168265,Serialization,Serialization,2,470,0,1,1,11393.3
+34491579,Input and Output,Insufficient knowledge of API usage,1,7437,6,2,1,0.6
+27323426,Input and Output,Integration errors with other data sources,5,4421,6,2,0,17.3
+41491972,Spark Basic,Lack of basic knowledge of Spark or programming language,12,15152,9,4,1,26.1
+37984472,Input and Output,Complex environmental configuration,1,905,0,1,0,145.4
+37082645,Performance,Lack of knowledge on memory tuning,1,754,4,2,0,5.6
+37986963,Configuration,Incorrect or suboptimal configuration values,6,5188,7,3,1,2191.7
+44282077,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1042,1,3,2,1
+39457876,Serialization,Serialization,2,98,0,1,0,10.8
+41920959,MLlib,Insufficient knowledge of API usage,4,2067,7,1,2,0.4
+46307671,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,719,2,1,0,0.4
+36648128,Spark Basic,Lack of basic knowledge of Spark or programming language,132,56531,210,8,104,3589.9
+47437665,Streaming,Integration errors with other data sources,2,372,0,1,0,1
+38961814,Streaming,Integration errors with other data sources,1,592,2,1,0,305.6
+40027222,Spark Basic,Lack of basic knowledge of Spark or programming language,4,7143,5,4,1,0.1
+35347838,Input and Output,Incorrect or incompatible data format,1,138,3,1,0,3
+40654323,Configuration,Complex environmental configuration,3,439,4,1,0,4.6
+45015512,Other,Other,1,327,2,1,0,2516.6
+42354372,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,8,10862,17,1,5,0.1
+50938253,Data processing,Diverse representation of timestamp data,1,296,1,1,0,0.1
+34888419,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,6,14572,3,2,1,20.6
+34011259,Streaming,Integration errors with other data sources,2,517,1,1,1,18.9
+34365692,Input and Output,Integration errors with other data sources,2,2573,5,2,2,4.8
+35515120,Other,Other,16,13049,15,4,3,405.5
+31312108,Data processing,Diverse representation of timestamp data,16,10800,31,1,2,1
+37660664,Spark Basic,Lack of basic knowledge of Spark or programming language,1,3169,8,1,3,7.3
+38397688,Streaming,Insufficient knowledge of API usage,8,4970,18,1,2,0.2
+37693958,Serialization,Serialization,1,172,2,1,0,1.8
+24113460,Other,Other,2,3476,7,3,2,25.9
+50260218,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,195,0,1,0,1.5
+41344968,Configuration,Complex environmental configuration,5,3051,0,1,0,20.7
+35619097,Data processing,Insufficient knowledge of API usage,2,619,2,1,0,18.9
+50369115,Configuration,Incorrect or suboptimal configuration values,1,187,1,1,0,1.9
+26255738,Configuration,Complex environmental configuration,3,4592,8,2,2,284.6
+37586181,MLlib,Insufficient knowledge of API usage,5,2938,6,1,0,5.2
+31026191,Performance,Insufficient knowledge of API usage,2,611,4,2,0,0.2
+32544307,Data processing,Insufficient knowledge of API usage,9,30510,8,2,7,2
+30760792,Configuration,Complex environmental configuration,10,9591,7,1,3,3.9
+35234847,Other,Other,3,2132,2,2,1,74.7
+31736063,MLlib,Incorrect or incompatible data format,1,195,1,1,0,1.3
+48713416,Input and Output,Incorrect or incompatible data format,1,406,2,1,0,0.1
+57210968,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,46,1,1,0,1.7
+37335902,Input and Output,Insufficient knowledge of API usage,2,1786,2,2,0,3.5
+35603789,MLlib,Unfamiliar with the working principle of distributed algorithms,6,1356,1,1,7,11738.6
+43039254,Input and Output,Integration errors with other data sources,8,12827,12,2,8,1
+40048508,Input and Output,Incorrect or incompatible data format,1,878,2,1,0,25.2
+46107245,Input and Output,Insufficient knowledge of API usage,2,1662,0,2,1,44
+44590284,Spark Basic,Lack of basic knowledge of Spark or programming language,8,3501,7,1,2,0.4
+35180527,Data processing,Insufficient knowledge of API usage,9,4149,15,3,3,2.3
+50758302,Input and Output,Integration errors with other data sources,1,423,2,1,0,0.6
+35446881,Configuration,Complex environmental configuration,1,273,1,1,0,0
+38490941,Input and Output,Integration errors with other data sources,10,5362,2,1,2,118.9
+39994005,Data processing,Incorrect or incompatible data format,1,3154,4,1,1,0.6
+40773830,Spark Basic,Lack of basic knowledge of Spark or programming language,5,724,5,1,0,0.6
+47836204,Configuration,Complex environmental configuration,6,356,1,1,0,158.8
+31807377,Data processing,Insufficient knowledge of API usage,3,1161,3,1,3,16.9
+45418454,Data processing,Diverse representation of timestamp data,2,1269,3,3,1,0.3
+41324733,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,384,0,1,0,0.9
+49436770,Spark Basic,Lack of basic knowledge of Spark or programming language,1,336,1,1,0,1.1
+42780886,Spark Basic,Lack of basic knowledge of Spark or programming language,2,725,2,1,0,0.2
+36055774,Spark Basic,Lack of basic knowledge of Spark or programming language,4,5586,8,3,0,0.3
+47726552,Streaming,Insufficient knowledge of API usage,1,494,1,1,0,15.3
+37055038,Data processing,Insufficient knowledge of API usage,6,7395,6,1,0,0.8
+52040384,Configuration,Incorrect or suboptimal configuration values,4,1167,5,2,1,1.2
+46051881,Data processing,Insufficient knowledge of API usage,6,1243,7,2,1,1.6
+42453194,Performance,Insufficient knowledge of API usage,3,85,1,2,0,36.6
+38745679,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,625,1,3,0,0.1
+45055389,Configuration,Complex environmental configuration,1,1036,2,1,1,0.2
+57463921,Data processing,Diverse representation of timestamp data,2,74,3,2,0,2
+40767920,Data processing,Insufficient knowledge of API usage,2,160,1,1,0,45.8
+39943600,Data processing,Insufficient knowledge of API usage,4,186,3,1,1,0.8
+39530775,MLlib,Incorrect or incompatible data format,1,2067,3,3,0,3.3
+43843470,Performance,Insufficient knowledge of API usage,5,3184,8,2,2,10.2
+37934932,Configuration,Complex environmental configuration,2,495,2,2,0,2.4
+38254405,Configuration,Complex environmental configuration,1,127,1,1,0,137.6
+42930146,Data processing,Diverse representation of timestamp data,1,256,0,1,0,0.4
+48987566,Data processing,Incorrect or incompatible data format,3,2031,3,1,0,47.1
+36556559,Data processing,Incorrect or incompatible data format,1,90,1,2,0,2.6
+31739364,Data processing,Insufficient knowledge of API usage,3,4739,5,2,0,71.6
+41624540,Configuration,Incorrect or suboptimal configuration values,1,320,4,1,0,6.7
+48579446,Performance,Insufficient knowledge of API usage,1,95,2,1,0,0.2
+41058998,Spark Basic,Lack of basic knowledge of Spark or programming language,2,11830,6,3,3,0.8
+38097736,Input and Output,Insufficient knowledge of API usage,5,3663,1,1,0,19.5
+45703026,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,625,1,2,0,1.1
+43920344,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,735,2,3,1,0.2
+31145737,Input and Output,Integration errors with other data sources,1,1511,3,3,0,2.1
+34510206,Input and Output,Incorrect or incompatible data format,1,1234,4,1,0,0.8
+35800795,Performance,Data distributed computing,30,24847,45,3,13,1.2
+57702508,Input and Output,Insufficient knowledge of API usage,2,81,2,1,3,2
+31655929,Spark Basic,Lack of basic knowledge of Spark or programming language,2,1467,4,1,0,1.5
+48929522,Data processing,Diverse representation of timestamp data,2,1068,1,1,0,0.6
+56106864,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,327,2,1,1,0.6
+44273080,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,2815,8,1,0,37.5
+45825616,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,402,0,1,1,5.5
+32942420,MLlib,Insufficient knowledge of API usage,4,715,1,1,1,25.6
+36660625,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,7,6650,6,1,6,7.6
+45160912,Data processing,Incorrect or incompatible data format,2,718,3,1,0,0.5
+48556872,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,733,1,1,0,0.2
+29260588,Performance,Insufficient knowledge of API usage,3,1775,4,1,0,21.9
+44684547,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1733,3,2,0,17.9
+52290069,Data processing,Diverse representation of timestamp data,7,293,3,2,0,193.1
+49452561,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,89,0,1,1,1.4
+54851205,Spark Bug,Spark Bug,1,433,1,1,0,20.2
+42036753,Configuration,Complex environmental configuration,1,585,0,3,2,80.6
+44769696,Configuration,Incorrect or suboptimal configuration values,1,632,1,1,1,0.2
+47208891,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,97,0,1,1,1.8
+49440819,Data processing,Diverse representation of timestamp data,3,3141,6,4,3,6.2
+40068011,Input and Output,Complex environmental configuration,1,2087,1,2,0,5.4
+41148981,Input and Output,Incorrect or incompatible data format,6,303,0,2,0,624.3
+45404644,Data processing,Insufficient knowledge of API usage,13,33164,19,1,3,0.1
+31804723,Configuration,Complex environmental configuration,1,961,1,1,1,5
+22814960,Input and Output,Incorrect or incompatible data format,2,3631,7,1,1,13
+48196113,Logging,Logging,7,5108,10,2,2,13.9
+42960920,Spark Basic,Lack of basic knowledge of Spark or programming language,8,4506,8,1,3,0.6
+32933143,Spark Basic,Lack of basic knowledge of Spark or programming language,17,9757,30,1,4,0.4
+40027207,Configuration,Incorrect or suboptimal configuration values,2,1712,3,2,2,22.2
+31937958,Input and Output,Insufficient knowledge of API usage,42,116315,72,7,16,1.6
+48746585,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,864,5,1,0,26.9
+48260412,Configuration,Complex environmental configuration,6,9103,7,5,4,8260.7
+31983708,Configuration,Incorrect or suboptimal configuration values,3,10695,0,3,2,32.2
+48702474,Logging,Logging,2,1149,2,1,0,5879.7
+47090432,Data processing,Insufficient knowledge of API usage,2,9016,3,1,0,0.4
+38331502,Configuration,Incorrect or suboptimal configuration values,13,4785,22,1,6,19.5
+50055448,Performance,Insufficient knowledge of API usage,1,534,6,3,0,11.7
+54332858,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,112,3,2,0,0
+36888746,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,254,3,1,0,0.6
+41098953,MLlib,Insufficient knowledge of API usage,5,1712,3,2,1,1
+41108232,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,980,1,2,0,1.8
+41379200,Spark Basic,Lack of basic knowledge of Spark or programming language,1,150,2,1,0,3.9
+41421675,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,8561,3,2,1,0.4
+33527321,Spark Bug,Spark Bug,4,2082,3,1,1,1363.5
+36247289,Spark Basic,Lack of basic knowledge of Spark or programming language,5,790,5,1,3,9.8
+48206682,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,335,1,1,0,0.9
+54102101,Data processing,Insufficient knowledge of API usage,1,626,3,1,1,0.1
+36629916,Data processing,Incorrect or incompatible data format,6,1523,5,1,3,0.3
+38257630,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,9,13777,8,1,3,2.2
+46192348,Data processing,Insufficient knowledge of API usage,1,2637,1,2,0,1.5
+52431917,Data processing,Insufficient knowledge of API usage,1,427,2,1,1,0.4
+43582989,Spark Basic,Lack of basic knowledge of Spark or programming language,11,22847,11,1,3,0
+38753898,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,21,28437,46,5,9,0.2
+29945330,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,10,7048,15,6,2,0.2
+29020757,Configuration,Complex environmental configuration,1,1990,3,2,2,18.8
+43961708,Input and Output,Incorrect or incompatible data format,1,897,0,2,0,3.6
+40384592,Spark Basic,Lack of basic knowledge of Spark or programming language,4,3835,9,1,1,0.1
+40619178,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,644,2,1,0,0.2
+52953058,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,37,3,2,0,0.1
+54268845,Data processing,Insufficient knowledge of API usage,4,2264,9,2,1,3.4
+32405768,Configuration,Complex environmental configuration,3,846,5,2,0,9.2
+43801889,Data processing,Incorrect or incompatible data format,1,1155,1,1,0,2.9
+50797649,Input and Output,Incorrect or incompatible data format,1,3218,2,2,1,216.2
+32568854,Data processing,Insufficient knowledge of API usage,4,7340,4,1,1,0.5
+36038188,Configuration,Complex environmental configuration,7,19178,13,2,2,0.2
+40717153,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,1940,3,1,2,0.5
+40763796,Data processing,Diverse representation of timestamp data,31,108901,36,8,18,0.1
+51105320,Configuration,Complex environmental configuration,2,344,0,1,2,6283.5
+48474225,Configuration,Complex environmental configuration,1,362,0,1,0,1441.8
+53434176,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,125,0,1,0,4.8
+30670337,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,758,2,2,3,0.2
+44473072,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,741,1,2,0,0.8
+34635404,Configuration,Complex environmental configuration,1,99,1,1,1,12.6
+55016299,Spark Basic,Lack of basic knowledge of Spark or programming language,1,887,2,1,1,0.6
+39234360,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,5770,10,2,1,0.4
+43608183,Data processing,Insufficient knowledge of API usage,1,485,3,2,0,1.5
+46925343,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,535,0,2,0,11.1
+52427806,Logging,Logging,1,157,2,1,0,1.4
+36995214,MLlib,Insufficient knowledge of API usage,2,3405,4,1,1,7.5
+32265478,Configuration,Complex environmental configuration,2,713,0,2,0,268.8
+35598035,Performance,Lack of knowledge on memory tuning,11,482,13,1,0,0.2
+34619315,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1480,5,2,2,1
+26194358,Configuration,Complex environmental configuration,9,2760,2,3,0,3.8
+56565986,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,40,2,2,0,0.5
+53273017,Configuration,Complex environmental configuration,11,6376,15,3,9,29.3
+55188938,Configuration,Complex environmental configuration,1,67,1,1,0,14
+40522665,Data processing,Incorrect or incompatible data format,1,432,1,1,0,10.7
+35770486,Performance,Insufficient knowledge of API usage,1,1558,0,1,0,46.2
+30872657,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,343,3,2,1,2.1
+32727279,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,20,10092,23,4,7,74.2
+29150202,Spark Basic,Lack of basic knowledge of Spark or programming language,2,4987,6,2,1,1.5
+42380482,Spark Basic,Lack of basic knowledge of Spark or programming language,1,637,1,1,0,1.6
+40656001,Data processing,Diverse representation of timestamp data,21,37042,48,4,6,0.2
+50241178,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,1526,1,3,2,0.5
+52574178,Data processing,Diverse representation of timestamp data,1,81,1,1,1,3.4
+42303907,Data processing,Insufficient knowledge of API usage,3,197,4,1,0,1
+57994948,Data processing,Insufficient knowledge of API usage,1,59,1,1,0,1.4
+25938567,Spark Basic,Lack of basic knowledge of Spark or programming language,27,22367,49,4,4,0.2
+58029377,Data processing,Diverse representation of timestamp data,1,41,1,1,0,1.4
+39018905,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,977,3,1,0,0.1
+35224457,Configuration,Complex environmental configuration,2,881,1,2,0,7.7
+35957497,Streaming,Integration errors with other data sources,2,752,2,1,0,4.3
+39743028,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,306,4,2,1,0.4
+37104131,Spark Basic,Lack of basic knowledge of Spark or programming language,2,351,4,1,1,7
+39997224,Configuration,Complex environmental configuration,14,33053,16,2,8,4.8
+46739289,Configuration,Incorrect or suboptimal configuration values,1,499,0,2,0,94.1
+31482798,Input and Output,Insufficient knowledge of API usage,9,15852,16,4,6,786.2
+36910014,Spark Basic,Lack of basic knowledge of Spark or programming language,3,4479,6,4,2,0.6
+37409857,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,15,18205,31,2,10,19.2
+50518824,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1507,1,1,0,4.1
+28974318,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,2,1139,1,1,0,3.3
+43094977,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,8,7824,12,1,5,3.5
+46896407,Input and Output,Insufficient knowledge of API usage,3,403,3,1,1,0.4
+51150764,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,607,0,1,0,0.4
+44163964,Input and Output,Complex environmental configuration,1,305,1,1,1,0.6
+43005744,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,10,10324,16,1,4,0.2
+45072793,Data processing,Incorrect or incompatible data format,1,1087,3,1,0,0.6
+55823283,Data processing,Insufficient knowledge of API usage,6,364,12,1,0,363.6
+54846334,Performance,Insufficient knowledge of API usage,1,59,1,1,0,23.6
+29066333,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,12,715,1,1,0,1.9
+39517541,Performance,Insufficient knowledge of API usage,3,8670,2,2,0,0.3
+45517158,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,5474,5,1,1,12.2
+40652171,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,3144,2,1,1,0.2
+38994132,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,827,2,1,0,78.6
+32788387,Data processing,Insufficient knowledge of API usage,43,41007,89,1,15,0.5
+24148441,Data processing,Insufficient knowledge of API usage,4,8168,3,1,2,0.8
+33830676,Spark Basic,Lack of basic knowledge of Spark or programming language,2,751,4,2,0,0.2
+43063704,Spark Basic,Lack of basic knowledge of Spark or programming language,1,482,1,1,0,0.8
+38813106,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,3,642,2,1,1,25.5
+50421494,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1857,2,1,2,2.7
+35588509,Streaming,Insufficient knowledge of API usage,6,2353,12,1,1,0
+48100909,Data processing,Diverse representation of timestamp data,2,588,1,1,0,89.3
+37785091,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,516,2,1,0,0.6
+49458273,MLlib,Insufficient knowledge of API usage,1,466,0,1,0,1607.5
+45741035,Data processing,Incorrect or incompatible data format,6,1539,4,1,2,0.4
+54350261,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,334,2,2,1,1.4
+35364045,Other,Other,1,242,1,1,1,152.5
+32757402,Configuration,Complex environmental configuration,2,488,1,1,0,102.8
+34038904,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,17652,5,2,2,0.5
+46817136,Input and Output,Insufficient knowledge of API usage,2,2296,4,1,1,351.4
+57963605,Data processing,Insufficient knowledge of API usage,1,36,2,1,1,0.8
+36924873,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,7,15565,19,2,2,0.1
+44015380,Spark Basic,Lack of basic knowledge of Spark or programming language,3,1393,4,1,1,0.3
+49071917,Configuration,Complex environmental configuration,1,185,1,1,0,75.6
+36626299,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,3872,0,1,0,1.1
+44332417,Spark Basic,Lack of basic knowledge of Spark or programming language,1,872,1,1,1,768.2
+46458354,Data processing,Insufficient knowledge of API usage,1,722,2,1,0,8
+36061899,Spark Basic,Lack of basic knowledge of Spark or programming language,5,2115,11,2,1,0.4
+46845292,Configuration,Incorrect or suboptimal configuration values,5,1358,7,2,1,0.2
+43465683,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,7146,3,3,0,4.1
+56114557,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,56,1,2,0,0.4
+47181625,Spark Basic,Lack of basic knowledge of Spark or programming language,2,467,2,2,1,0.3
+48062171,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,1773,2,1,0,1
+57734272,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,151,2,2,4,63.1
+50356088,Performance,Insufficient knowledge of API usage,2,1019,1,1,1,0.2
+28044321,Data processing,Incorrect or incompatible data format,2,108,5,2,1,0.1
+44413132,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,6,10561,21,1,5,0.2
+49681116,Configuration,Incorrect or suboptimal configuration values,3,464,2,1,1,0.4
+30263646,Spark Basic,Lack of basic knowledge of Spark or programming language,12,19140,15,5,2,21.7
+45164586,Configuration,Incorrect or suboptimal configuration values,1,776,0,1,0,358.4
+57030933,Streaming,Integration errors with other data sources,1,108,1,1,0,0.1
+34443475,Data processing,Insufficient knowledge of API usage,10,7419,14,1,1,0.1
+23414238,Data processing,Incorrect or incompatible data format,2,5432,7,2,1,6.4
+52683800,Streaming,Insufficient knowledge of API usage,1,122,1,1,0,14.8
+43600992,Logging,Logging,3,643,3,1,1,13860.3
+46087420,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,13,19299,18,3,4,1.6
+40378510,Data processing,Insufficient knowledge of API usage,1,3300,2,2,0,0.8
+55577043,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,156,3,2,1,0.4
+35019400,Configuration,Complex environmental configuration,1,354,0,1,0,0.2
+45895642,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,536,1,1,0,0.4
+29521877,Data processing,Incorrect or incompatible data format,1,2953,7,1,0,0.6
+49352766,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,119,1,1,0,0.1
+37316729,Streaming,Integration errors with other data sources,1,362,1,1,0,51.2
+38475706,Data processing,Insufficient knowledge of API usage,1,142,0,1,0,0.2
+34764505,Configuration,Complex environmental configuration,7,8380,3,2,1,0.4
+46465608,Data processing,Insufficient knowledge of API usage,2,714,2,2,0,0.4
+46471399,MLlib,Unfamiliar with the working principle of distributed algorithms,3,1138,6,1,3,191.1
+23625896,Configuration,Complex environmental configuration,4,5825,7,2,2,1.4
+39248090,Input and Output,Integration errors with other data sources,1,2992,2,1,2,4.2
+54682256,Streaming,Not able to know the intermediate processed data due to Spark’s abstraction,1,46,1,1,1,14.1
+47508083,Streaming,Integration errors with other data sources,1,134,1,2,0,1.4
+44765180,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,460,2,2,0,3.7
+28806792,Data processing,Insufficient knowledge of API usage,5,2873,5,2,2,3.2
+32505426,Data processing,Insufficient knowledge of API usage,12,3388,14,1,8,10.5
+49692821,Performance,Insufficient knowledge of API usage,2,61,2,1,0,4.2
+55142020,Input and Output,Incorrect or incompatible data format,1,65,0,1,0,17.9
+36739466,Data processing,Diverse representation of timestamp data,1,1596,2,3,0,0.8
+53922777,Spark Basic,Lack of basic knowledge of Spark or programming language,1,240,2,2,0,193.1
+35281538,Serialization,Serialization,2,1166,3,1,1,18.9
+57388963,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,63,0,1,0,1.3
+40316417,Other,Other,5,688,1,1,0,2
+31721247,Spark Basic,Lack of basic knowledge of Spark or programming language,2,977,1,2,0,3.3
+32058148,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,1112,4,1,1,0.8
+44382822,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,2780,2,2,0,1.4
+43392568,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,4,2892,11,2,2,0.1
+57346978,Data processing,Insufficient knowledge of API usage,2,82,3,1,1,0.6
+40235566,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,742,4,2,1,39
+40781754,Configuration,Complex environmental configuration,2,385,2,1,0,0.8
+50171431,Configuration,Incorrect or suboptimal configuration values,1,884,1,1,0,263.6
+54082435,Spark Bug,Spark Bug,2,198,4,1,1,16
+58010723,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,58,2,1,0,9.8
+32123418,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,953,2,1,0,1.5
+49266424,Data processing,Incorrect or incompatible data format,1,394,1,2,0,4
+54355495,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,480,2,2,0,0.1
+41854707,Spark Basic,Lack of basic knowledge of Spark or programming language,1,816,1,2,0,5.5
+45586458,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,731,3,1,2,0.3
+47560142,Data processing,Diverse representation of timestamp data,1,1850,2,2,1,5.5
+49728091,Configuration,Complex environmental configuration,1,416,0,1,0,6
+40230237,Configuration,Complex environmental configuration,1,1314,3,1,2,668
+34876451,Spark Basic,Lack of basic knowledge of Spark or programming language,9,1324,1,2,0,13.2
+38360692,Configuration,Complex environmental configuration,3,1133,1,1,0,2.2
+41356749,Data processing,Insufficient knowledge of API usage,2,3318,6,2,0,0.2
+40729047,Spark Basic,Lack of basic knowledge of Spark or programming language,1,2246,6,2,2,9.3
+32788534,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,2544,6,2,0,0.5
+43622873,Performance,Insufficient knowledge of API usage,2,742,5,1,0,0.2
+44855848,Data processing,Insufficient knowledge of API usage,3,897,0,2,0,6.8
+33231536,Configuration,Complex environmental configuration,1,95,0,1,0,0
+57265118,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,62,4,2,0,0.8
+57920480,Input and Output,Integration errors with other data sources,1,38,1,1,1,1.4
+36561435,Data processing,Diverse representation of timestamp data,4,1780,6,1,1,14.9
+50500407,Data processing,Insufficient knowledge of API usage,1,1466,0,1,0,2.6
+44316974,Data processing,Diverse representation of timestamp data,5,3265,7,2,3,24.8
+31097751,Spark Bug,Spark Bug,2,355,3,3,0,3.2
+45885044,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,2352,7,1,2,3.7
+34293027,Configuration,Incorrect or suboptimal configuration values,3,1238,1,3,1,19.4
+32265456,Configuration,Complex environmental configuration,9,1960,0,4,3,935.8
+49471192,Input and Output,Integration errors with other data sources,4,8174,7,1,2,4
+39253203,Spark Basic,Lack of basic knowledge of Spark or programming language,4,3139,3,1,2,0.9
+48177044,Other,Other,2,305,2,1,0,552
+47040698,Data processing,Insufficient knowledge of API usage,2,6206,1,1,0,59.8
+45167709,Configuration,Complex environmental configuration,2,447,1,1,1,0.4
+31955309,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,23,36165,38,4,7,0.9
+49281576,Data processing,Insufficient knowledge of API usage,1,3127,2,3,0,0.2
+53592313,Data processing,Insufficient knowledge of API usage,1,151,1,1,0,0.3
+26872788,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,1162,4,1,0,4.5
+32900135,Performance,Lack of knowledge on memory tuning,1,1234,1,1,1,0.7
+39377451,Configuration,Incorrect or suboptimal configuration values,2,84,0,1,0,2.2
+33311794,Configuration,Complex environmental configuration,5,2932,13,1,2,0.3
+35892377,Streaming,Insufficient knowledge of API usage,1,173,1,1,0,0.5
+46481174,Data processing,Diverse representation of timestamp data,1,1273,0,2,0,0.7
+39620703,Configuration,Complex environmental configuration,6,1653,5,1,0,29.9
+50103830,Configuration,Complex environmental configuration,3,216,2,2,0,18.6
+56397906,Data processing,Insufficient knowledge of API usage,1,96,1,1,0,0.1
+37128737,Performance,Insufficient knowledge of API usage,4,64,2,2,0,362.8
+50477857,Input and Output,Insufficient knowledge of API usage,7,1312,1,2,1,4854.8
+55430602,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,159,1,1,0,11.3
+36038987,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,979,1,1,0,4.3
+41437946,Spark Basic,Lack of basic knowledge of Spark or programming language,1,951,2,1,1,1.5
+33635071,Input and Output,Complex environmental configuration,11,4835,12,1,1,146
+39583623,MLlib,Incorrect or incompatible data format,1,600,0,2,0,4.7
+46466353,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,589,3,1,0,0.4
+32772974,Data processing,Insufficient knowledge of API usage,3,1300,4,1,3,0.4
+53404978,Data processing,Incorrect or incompatible data format,4,113,2,1,0,563.1
+43797758,Other,Other,3,487,2,1,0,1.2
+51428195,Performance,Insufficient knowledge of API usage,4,1806,4,2,3,0.7
+35029061,Streaming,Insufficient knowledge of API usage,1,793,2,2,0,41.1
+50007126,MLlib,Insufficient knowledge of API usage,3,482,2,1,4,316.3
+45565565,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,588,4,2,0,0.1
+36228747,Data processing,Incorrect or incompatible data format,2,4577,4,2,3,0.7
+36898511,Other,Other,10,2003,6,1,1,3.4
+52246451,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,179,1,3,0,14.4
+33934026,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,521,1,1,0,0
+36000959,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,5,3536,4,2,1,5
+48359436,Configuration,Complex environmental configuration,2,667,3,1,0,3.2
+42957650,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,2,2402,3,1,0,0.6
+32877326,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,5272,5,3,1,1.8
+44145862,Data processing,Incorrect or incompatible data format,2,455,3,1,0,16.3
+39655744,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,312,2,2,0,2.2
+48268969,Configuration,Incorrect or suboptimal configuration values,1,359,0,2,0,90.2
+51582475,Spark Basic,Lack of basic knowledge of Spark or programming language,2,559,1,2,1,1.1
+38839162,Other,Other,1,529,1,1,0,0.3
+46740670,Input and Output,Integration errors with other data sources,5,10388,4,1,1,5605
+41960919,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,625,0,3,0,19.8
+27427042,Configuration,Incorrect or suboptimal configuration values,3,4487,0,2,0,7.3
+57390732,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,1,31,0,1,0,0.4
+52951429,Other,Other,1,217,3,2,0,1.2
+38078146,Streaming,Insufficient knowledge of API usage,2,4216,5,1,1,0.5
+44829141,Spark Basic,Lack of basic knowledge of Spark or programming language,1,890,2,2,0,0.1
+34736587,Serialization,Serialization,6,3666,8,2,0,3202
+29543854,Configuration,Complex environmental configuration,2,2540,6,2,1,7036.7
+55461843,Data processing,Not able to know the intermediate processed data due to Spark’s abstraction,3,365,1,2,0,0.5
+44450889,Spark Basic,Lack of basic knowledge of Spark or programming language,3,2116,6,1,2,0.2
+41169254,Spark Basic,Lack of basic knowledge of Spark or programming language,3,3987,7,1,0,0.1
