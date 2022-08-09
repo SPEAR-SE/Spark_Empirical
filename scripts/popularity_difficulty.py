@@ -6,7 +6,6 @@ print(len(df))
 classify_type = 'Classification'
 df = df.groupby(classify_type).mean().round(1)
 #df = df.groupby(classify_type).median().round(1)
-# df = df.sort_values(['diff_time'], ascending=False)
 pd.set_option('display.max_columns', None)
 df.to_csv("results.csv")
 print(df)
