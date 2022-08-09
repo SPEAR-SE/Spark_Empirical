@@ -1,0 +1,2 @@
+#query data from Stack Exchange
+select a.Id, a.FavoriteCount, a.CreationDate as questionCreateDate, a.LastEditDate as questionLastEditDate, a.LastActivityDate as questionLastActivityDate, b.CreationDate as answerCreationDate, b.LastEditDate as answerLastEditDate, b.LastActivityDate as answerLastActivityDate from Posts as a left join Posts as b on (a.Id = b.ParentId and a.AcceptedAnswerId = b.Id) where a.PostTypeId = 1 and a.AcceptedAnswerId is not null and a.Score > 0 and a.Tags like '%apache-spark%'
